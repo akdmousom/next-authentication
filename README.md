@@ -1,5 +1,5 @@
 
-!['Next Auth']('/public/next-auth-banner.png')
+!['Next Auth Banner'](https://raw.githubusercontent.com/akdmousom/next-authentication/main/public/next-auth-banner.png)
 
 ## Getting Started
 
