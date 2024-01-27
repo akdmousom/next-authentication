@@ -9,8 +9,10 @@ export default function Home() {
           <h1 className="text-center text-white font-extrabold text-5xl">Welcome To Next Auth...</h1>
           <p className="py-4 text-2xl font-bold">With this project you can learn how to apply next authentication system in your next 14 project</p>
         </div>
-      </div>
 
+
+
+      </div>
     </>
   );
 }
