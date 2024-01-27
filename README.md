@@ -1,5 +1,5 @@
 
-!['Next Auth']('/public/nextauthjs.webp')
+!['Next Auth']('https://raw.githubusercontent.com/akdmousom/next-authentication/main/public/nextauthjs.webp')
 
 ## Getting Started
 
