@@ -1,5 +1,5 @@
 
-!['Next Auth']('https://raw.githubusercontent.com/akdmousom/next-authentication/main/public/nextauthjs.webp')
+!['Next Auth']('/public/next-auth-banner.png')
 
 ## Getting Started
 
