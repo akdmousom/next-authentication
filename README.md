@@ -23,7 +23,18 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Environments Details
 
-You have to create a .env.local file in this file you have to give the provider client ID and secret otherwise your provider not work properly
+You have to create a .env.local file in this file you have to give the provider client ID and secret otherwise your provider not work properly.
+
+GITHUB_ID =
+
+GITHUB_SECRET = 
+
+GOOGLE_CLIENT_ID = 
+
+GOOGLE_CLIENT_SECRET = 
+
+AUTH_SECRET = 
+
 
 ## Learn More
 
