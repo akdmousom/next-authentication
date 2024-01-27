@@ -1,4 +1,6 @@
 
+!['Next Auth']('/public/nextauthjs.webp')
+
 ## Getting Started
 
 First, run the development server:
